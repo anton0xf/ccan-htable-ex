@@ -1,0 +1,12 @@
+Simple ccan/htable using example (copied from http://ccan.ozlabs.org/info/htable.html).
+It use code from project CCAN (http://ccan.ozlabs.org/).
+
+To build this:
+1. get ccan and build it 
+2. set CCAN_HOME environment variable 
+3. enter 
+    $ make
+   for build htable-ex executable, or
+    $ make test
+   for simple test
+
