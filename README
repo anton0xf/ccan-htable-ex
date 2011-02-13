@@ -1,5 +1,9 @@
+Copyright (C) 2011  anton0xf <anton0xf@gmail.com>
+
 Simple ccan/htable using example (copied from http://ccan.ozlabs.org/info/htable.html).
 It use code from project CCAN (http://ccan.ozlabs.org/).
+This program is free software and distributed in the hope 
+that it will be useful, but WITHOUT ANY WARRANTY; See LICENCE
 
 To build this:
 1. get ccan and build it 

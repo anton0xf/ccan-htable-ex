@@ -1,3 +1,6 @@
+/* Simple ccan/htable using example
+   This code copied from http://ccan.ozlabs.org/info/htable.html
+   See LICENCE */
 #include <ccan/htable/htable.h>
 #include <ccan/hash/hash.h>
 #include <stdio.h>
